@@ -11,6 +11,32 @@ Botania Improved (Temporary name) is a project where I am attempting to improve/
 - Mana items
 - Black Hole Pendant (Adding +1 frame)
 
+## Things that are currently retextured:
+
+- Wand of the Forest
+- Pestle and Mortar
+- Floral Fertilizer
+- Mystical Petals (WIP)
+- Manasteel tools/items/armor (WIP)
+- Terrasteel tools/items/armor (WIP)
+- Elementium tools/item/armor
+- Livingwood Twig
+- Dreamwood Twig
+- Gaia Spirit
+- Gaia Spirit Ingot
+- Strings
+- Mana Lenses
+- Pasture Seeds
+- World Seed
+- Rods
+- Livingwood Bow
+- Trinket Case
+- Black Lotus (Very WIP)
+- Ender Air Bottle (WIP)
+- Black Hole Pendant (WIP)
+- Pebble
+- Roots
+
 ## Things I am planning on retexturing:
 
 - Rest of items
