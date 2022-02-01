@@ -18,3 +18,7 @@ This is a moderate sized project, where I am attempting to improve/modernize Bot
 
 - Tiny potato
 - Particles
+
+## Preview
+
+![preview](https://i.imgur.com/vJp0dfv.png)
