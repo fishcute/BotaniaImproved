@@ -50,7 +50,7 @@ Botania Improved (Temporary name) is a project where I am attempting to improve/
 
 ## How to download this
 
-Go to the `Versions` directory, and there should be a download available.
+Go to the [Versions](https://github.com/fishcute/BotaniaImproved/tree/main/Versions) directory, and the downloads should be available there.
 
 ## Preview
 
