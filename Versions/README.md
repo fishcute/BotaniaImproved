@@ -2,4 +2,9 @@
 
 This is a temporary method for downloading
 
-- [BotaniaImproved_v1](https://github.com/fishcute/BotaniaImproved/raw/main/Versions/BotaniaImproved_v1.zip)
+### Version 1
+[Download](https://github.com/fishcute/BotaniaImproved/raw/main/Versions/BotaniaImproved_v1.zip)
+
+**Notes:**
+- Doesn't include armor textures (Accidently deleted them, will be included in the next version)
+
