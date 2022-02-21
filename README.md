@@ -1,7 +1,8 @@
-# Botania Improved
-
 **This resource pack has been moved to CurseForge**
+
 If you want the most up to date version, go to [this link](https://www.curseforge.com/minecraft/texture-packs/botania-revamped)
+
+# Botania Improved
 
 **Important Note**: This resource pack still contains original assets from Botania (Since resource pack is WIP). All credit for unoriginal assets goes to the [Violet Moon Team](https://github.com/VazkiiMods). Additionally, if you do not know what Botania is, please check it out [here](https://www.curseforge.com/minecraft/mc-mods/botania).
 
